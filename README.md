@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bright Bassey
 - 👀 I’m interested in Building innovative solutions
 - 🌱 I’m currently learning System design and Backend engineering
-- 💞️ I’m looking to collaborate on fintech solutions
+- 💞️ I’m looking to collaborate on amazing solutions
 - 📫 How to reach me brightbassey2001@gmail.com
 
 <!---
