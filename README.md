@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bright Bassey
 - 👀 I’m interested in Building innovative solutions
-- 🌱 I’m currently learning System design and Backend engineering
+- 🌱 I’m currently working on System design and Backend engineering
 - 💞️ I’m actively looking for entry level software engineering roles
 - 📫 How to reach me brightbassey2001@gmail.com
 
